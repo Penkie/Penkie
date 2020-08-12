@@ -2,7 +2,7 @@
 
 Here's some of my dev things
 
-- 🔭 I’m currently working on ... Angular and NodeJS
+- 🔭 I’m currently working on ... A secret project
 - 🌱 I’m currently learning ... ASP.net core
 - 🤔 I’m looking for help with ... ASP.net core
 - 💬 Ask me about ... Anything
