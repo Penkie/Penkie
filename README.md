@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm a passionate fullstack developer from Switzerland. Don't hesitate to reach out ! contact@oscarprince.ch
+Hey! I'm a passionate fullstack developer from Switzerland. Don't hesitate to reach out ! [oscarprince.ch/contact](https://oscarprince.ch/contact)
 
 
 # 💻 Tech Stack:
